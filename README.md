@@ -5,7 +5,7 @@
 
 This is the [Django](https://www.djangoproject.com/)/[Django CMS](https://www.django-cms.org/) project that runs <http://okfn.org>.
 
-## Prerequisites and assumptions
+## Requirements
 
 You must have the following installed:
 
